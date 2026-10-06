@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
