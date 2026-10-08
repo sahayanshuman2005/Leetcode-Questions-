@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sahayanshuman2005/LEETCODE-QUESTIONS-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
