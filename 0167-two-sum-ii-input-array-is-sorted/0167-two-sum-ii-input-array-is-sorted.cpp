@@ -8,8 +8,8 @@ public:
             if(sum<target){
                 left++;
             }else if(sum==target){
-                return {left+1,right+1};
-            }else {
+                return{left+1,right+1};
+            }else{
                 right--;
             }
         }
